@@ -1,3 +1,2 @@
-﻿# -oop2026-group07-library-system
-
-салам бро
+Topic: Hotel / Hostel Room Booking System
+Members: Nurassyl Assylkhan and Zhengis Amangeldi
